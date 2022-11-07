@@ -13,7 +13,7 @@ params = {'out_path': './results',
           'ext': '.xlsx',
           'flag': 'flag',
           'is_validate': False,
-          'steps': 10,
+          'steps': 50,
           }
 
 

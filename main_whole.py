@@ -9,7 +9,7 @@
 from trainer_whole import Trainer
 
 
-params = {'out_path': './results_whole',
+params = {'out_path': './results',
           'ext': '.xlsx',
           'flag': 'flag',
           'is_validate': False,

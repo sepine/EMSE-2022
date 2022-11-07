@@ -18,7 +18,7 @@ params = {'base_path': './datasets/',
           'flag': 'flag',
           'is_validate': False,
           'split_ratio': 0.5,
-          'steps': 1,
+          'steps': 50,
           }
 
 

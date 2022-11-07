@@ -13,7 +13,7 @@ from trainer import Trainer
 import tensorflow
 
 params = {'base_path': './datasets/',
-          'out_path': './results_v2',
+          'out_path': './results',
           'ext': '.xlsx',
           'flag': 'flag',
           'is_validate': False,

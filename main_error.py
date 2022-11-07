@@ -12,6 +12,7 @@ from trainer_error import Trainer
 
 import tensorflow
 
+
 params = {'base_path': './datasets/',
           'out_path': './results_error',
           'ext': '.xlsx',

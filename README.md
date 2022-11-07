@@ -19,8 +19,8 @@ Here is the directory structure of our repository:
 
 ```
 ├─ datasets  -> the original dataset
-      ├─ cross ->  the data for cross project prediction
-      ├─ whole ->  the data for prediction among the whole dataset
+├─ cross ->  the data for cross project prediction
+├─ whole ->  the data for prediction among the whole dataset
 ├─ classifiers.py -> the implementation of classification models
 ├─ data_loader.py -> the implementation of loading dataset as the dataframe
 ├─ data_processor.py -> the implementation of data preprocessing

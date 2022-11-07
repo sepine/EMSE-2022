@@ -14,6 +14,7 @@ from sklearn.neural_network import MLPClassifier
 import wittgenstein as lw
 
 
+
 def NB(X, y, xtest):
     gnb = GaussianNB()
     gnb.fit(X, y)
